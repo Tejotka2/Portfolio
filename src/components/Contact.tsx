@@ -59,7 +59,7 @@ export default function Contact() {
         document.execCommand?.("copy");
         ta.remove();
       } catch {
-        /* clipboard niedostępny — e-mail i tak jest widoczny */
+       
       }
     }
     setCopied(true);
