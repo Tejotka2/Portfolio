@@ -36,8 +36,7 @@ export default function Projects() {
           }
           lead={
             <>
-              Dziewięć wybranych montaży z ostatnich dwóch lat. Najedź, żeby odpalić podgląd — kliknij,
-              żeby otworzyć pełny player z creditami, formatem i wynikiem retencji.
+          
             </>
           }
           aside={
